@@ -1,0 +1,10 @@
+
+That is not a command that I recognize, please try again.
+Title: The Shawshank Redemption
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+Release year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 91%

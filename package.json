@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/reygranda/LIRIBOT/issues"
   },
-  "homepage": "https://github.com/reygranda/LIRIBOT#readme"
+  "homepage": "https://github.com/reygranda/LIRIBOT#readme",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "dotenv": "^8.0.0",
+    "node-spotify-api": "^1.1.1"
+  }
 }
